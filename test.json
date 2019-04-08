@@ -166,7 +166,6 @@
       "command": "click",
       "target": "css=.gradientContent > .clearfix > .lfloat",
       "targets": [
-	  ["id=u_0_7", "id"],
         ["css=.gradientContent > .clearfix > .lfloat", "css:finder"],
         ["xpath=//div[@id='content']/div/div/div/div/div", "xpath:idRelative"],
         ["xpath=//div[3]/div/div/div/div/div/div", "xpath:position"]
