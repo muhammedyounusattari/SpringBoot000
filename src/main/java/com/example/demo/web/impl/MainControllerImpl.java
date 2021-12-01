@@ -14,7 +14,7 @@ public class MainControllerImpl implements MainController {
 	@RequestMapping(value=MainConstants.FIRST)
 	public String firstRequest() {
 		System.out.println("this is from firstRequest...");
-		return null;
+		return "his is from firstRequest..";
 	}
 
 }
